@@ -13,3 +13,10 @@
 
         > git remote add origin https://.visualstudio.com/DefaultCollection/_git/
         > git push -u origin master
+
+5) To install all the libraries required to run the application, in a terminal type:
+        > npm install
+
+6) Create a file named .gitignore in your projects directory. Ignore directories by entering the directory name into the file (with a slash appended):
+        > directory_name/
+        
